@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Cloud Infrastructure, DevOps, Data Visualization**
 
-- 📫 How to reach me **aiswaryarpai@gmail.com**
+- <img width="17" height="14" alt="image" src="https://github.com/user-attachments/assets/d860c743-2c77-4a4b-9d54-254b2ee63831" />  Reach me at  **aiswaryarpai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
