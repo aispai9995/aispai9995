@@ -21,6 +21,7 @@
 
 ## 📙 Check out my
 [Resume]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Portfolio]()
+<br><br>
 
 ## ⚙️ Some Tool and Tech I use
 <p  align="left">
