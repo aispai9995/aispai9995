@@ -30,22 +30,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> &nbsp;&nbsp;
   <img width="40" height="40" alt="yaml" src="https://github.com/user-attachments/assets/57de6a8f-7774-49ae-bd7a-6571a30dcdec" /> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
-</p>
-<p align="left">
-  <img width="50" height="40" alt="tableau" src="https://github.com/user-attachments/assets/1fafba34-6069-466b-aa1a-1b434c9e7bc4" /> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/6083dd38-25de-4d98-9c3c-e3aad18d6c07" alt="aws" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azure devops" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/8725a498-eb45-4413-a1e8-caf68e2dcf94" alt="terraform" width="40" height="40"/> &nbsp;&nbsp;
+  <img width="50" height="50" alt="tableau" src="https://github.com/user-attachments/assets/1fafba34-6069-466b-aa1a-1b434c9e7bc4" /> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" alt="powerbi" width="40" height="40"/> &nbsp;&nbsp;
   <img width="40" height="40" alt="ibm_rhapsody" src="https://github.com/user-attachments/assets/0bb2253b-f4d0-4c1c-849a-a15fb3820a9e" /> &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs code" width="40" height="40"/> &nbsp;&nbsp;
   <img width="50" height="40" alt="jira" src="https://github.com/user-attachments/assets/c4307c5a-f2ee-4d79-ace3-ce1848b1d7ce" /> 
-</p>
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/6083dd38-25de-4d98-9c3c-e3aad18d6c07" alt="aws" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azure devops" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/8725a498-eb45-4413-a1e8-caf68e2dcf94" alt="terraform" width="40" height="40"/>
 </p>
 
 ## 🎓 Certifications
