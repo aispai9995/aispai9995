@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=aispai9995&label=Profile%20views&color=0e75b6&style=flat" alt="aispai9995" /> 
 </p>
 
-- 🔭 I’m a graduate student at **the University of Akron** pursuing a **MS in Management - Business Analytics and Information Systems.**
+- 🔭 I’m a graduate student at **the University of Akron** pursuing a **Masters in Management - Business Analytics and Information Systems.**
 - 💻 I bring in **6** years of work experience in **Cloud Infrastructure & Design, I specialize in AWS, DevOps, Terraform,** and a basic knowledge of Azure and GCP.
 - 🌱 I’m currently learning **Python, Machine Learning, Advanced SQL, Basics of Generative AI.**
 - 🤝 I’m excited to resume my career in a dynamic business environment, leveraging both my **technical background in cloud computing and my academic knowledge in business analytics.**
