@@ -35,6 +35,8 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azure devops" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/8725a498-eb45-4413-a1e8-caf68e2dcf94" alt="terraform" width="40" height="40"/> &nbsp;&nbsp;
+</p>
+<p  align="left">
   <img width="50" height="50" alt="tableau" src="https://github.com/user-attachments/assets/1fafba34-6069-466b-aa1a-1b434c9e7bc4" /> &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" alt="powerbi" width="40" height="40"/> &nbsp;&nbsp;
