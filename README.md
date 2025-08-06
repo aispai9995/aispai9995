@@ -3,7 +3,9 @@
  and a budding Data Analyst <img align="center" width="40" height="40" alt="da" src="https://github.com/user-attachments/assets/2beb4481-43c1-428c-b9db-abeefc2a7e93" />
 </h3>
 
-<p align="left"> 
+<h3 align="left"> Glad to see you here!
+
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=aispai9995&label=Profile%20views&color=0e75b6&style=flat" alt="aispai9995" /> 
 </p>
 
