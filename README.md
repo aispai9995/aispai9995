@@ -22,7 +22,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aiswaryarpai@gmail.com)](mailto:aiswaryarpai@gmail.com)
 
 ## 📙 Check out my
-[Resume]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Portfolio]()
+[CV](https://github.com/aispai9995/aispai9995/blob/main/Aiswarya%20Pai_CV.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Portfolio](https://aiswaryarpai.wixsite.com/portfolio)
 <br><br>
 
 ## ⚙️ Some Tool and Tech I use
