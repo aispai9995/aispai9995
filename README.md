@@ -21,9 +21,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aiswarya-ratheesh-pai/)](https://www.linkedin.com/in/aiswarya-ratheesh-pai)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aiswaryarpai@gmail.com)](mailto:aiswaryarpai@gmail.com)
 
-## 📙 Check out my
-[CV](https://raw.githubusercontent.com/aispai9995/aispai9995/refs/heads/main/Aiswarya%20Pai_CV.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Portfolio](https://aiswaryarpai.wixsite.com/portfolio)
-<br><br>
+## 📂 Check out
+📙 [My Portfolio](https://aiswaryarpai.wixsite.com/portfolio) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+⬇️ [Download My CV](https://raw.githubusercontent.com/aispai9995/aispai9995/refs/heads/main/Aiswarya%20Pai_CV.pdf) 
+<br>
 
 ## ⚙️ Some Tool and Tech I use
 <p  align="left">
