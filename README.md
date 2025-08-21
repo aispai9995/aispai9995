@@ -1,20 +1,27 @@
 <h1 align="center">Hey👋! I'm Aiswarya Pai</h1>
-<h3 align="center">A seasoned Cloud Architect <img align="center" width="40" height="40" alt="ca" src="https://github.com/user-attachments/assets/6dd4b3a7-a65d-4f30-a3c8-6b0016a4cc31" />
- and a budding Data Analyst <img align="center" width="40" height="40" alt="da" src="https://github.com/user-attachments/assets/2beb4481-43c1-428c-b9db-abeefc2a7e93" />
-</h3>
-
-<h3 align="left"> Glad to see you here!
-
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=aispai9995&label=Profile%20views&color=0e75b6&style=flat" alt="aispai9995" /> 
+<p align="center"> 
+Master’s in Management - Business Analytics and Information Systems @ The University of Akron 
+<br>
+<img align="center" width="25" height="25" alt="ca" src="https://github.com/user-attachments/assets/6dd4b3a7-a65d-4f30-a3c8-6b0016a4cc31" />  &nbsp;&nbsp; Seasoned Cloud Architect | AWS & Azure Certified  
+| Budding Business Analyst &nbsp;&nbsp; <img align="center" width="25" height="25" alt="da" src="https://github.com/user-attachments/assets/2beb4481-43c1-428c-b9db-abeefc2a7e93" />
+<br>
+📍 Akron, OH | 📧 aiswaryarpai@gmail.com 
 </p>
 
+---
+
+
+_Glad to see you here!_
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=aispai9995&label=Profile%20views&color=0e75b6&style=flat" alt="aispai9995" /> 
+
+
 ## ⚡️ A Little About Me ...
-- 🔭 I’m a graduate student at **the University of Akron** pursuing a **Masters in Management - Business Analytics and Information Systems.**
-- 💻 I bring in **6** years of work experience in **Cloud Infrastructure & Design, I specialize in AWS, DevOps, Terraform,** and a basic knowledge of Azure and GCP.
-- 🌱 I’m currently learning **Python, Machine Learning, Advanced SQL, Basics of Generative AI.**
-- 🤝 I’m excited to resume my career in a dynamic business environment, leveraging both my **technical background in cloud computing and my academic knowledge in business analytics.**
-- 💬 Ask me about **Cloud Infrastructure, DevOps, Data Analysis, Data Visualization, Machine Learning.**
+
+I am an experienced Cloud Architect and a data enthusiast. With 6 years in AWS & DevOps, I love designing scalable, resilient and automated solutions. I am currently pursuing my MS in Business Analytics & IS, exploring how data + cloud can power smarter decisions. <br> <br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%93%99-white)](https://aiswaryarpai.wixsite.com/portfolio) &nbsp;&nbsp; &nbsp;&nbsp;
+[![CV](https://img.shields.io/badge/CV-%E2%AC%87%EF%B8%8F-white)](https://raw.githubusercontent.com/aispai9995/aispai9995/refs/heads/main/Aiswarya%20Pai_CV.pdf) &nbsp;&nbsp; &nbsp;&nbsp;
 
 ## 📬 Find me at ...
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/aispai9995/)](https://github.com/aispai9995/) 
@@ -22,9 +29,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aiswaryarpai@gmail.com)](mailto:aiswaryarpai@gmail.com)
 
 ## 📂 Check out
-📙 [My Portfolio](https://aiswaryarpai.wixsite.com/portfolio) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-⬇️ [Download My CV](https://raw.githubusercontent.com/aispai9995/aispai9995/refs/heads/main/Aiswarya%20Pai_CV.pdf) 
+
 <br>
+
+## Core Skills
+
+- **Languages & Scripting:** Python, SQL, R, Bash, C++
+- **Data Engineering & Cloud:** Databricks, Snowflake, Azure Synapse, ADF, SSIS, Delta Lake
+- **ML & AI Integration:** Scikit-learn, XGBoost, OpenAI APIs, RAG, FAISS, LLM embeddings
+- **Orchestration & DevOps:** Apache Airflow, dbt, GitHub Actions, Docker
+- **BI & Visualization:** Power BI (DAX, RLS/OLS), Tableau, SSAS Tabular Models
+- **Certifications:** SnowPro Core, DP-203, PL-300, DP-900, AZ-900
 
 ## ⚙️ Some Tool and Tech I use
 <p  align="left">
