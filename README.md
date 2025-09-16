@@ -22,7 +22,7 @@ I am a data enthusiast with 6 years of experience in data analysis, business sys
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiswarya-ratheesh-pai)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiswaryarpai@gmail.com)
 [![Tableau Badge](https://img.shields.io/badge/Tableau-005A9C?style=for-the-badge&logo=google-analytics&logoColor=white)](https://public.tableau.com/app/profile/aiswarya.ratheesh.pai)
-[![CV Badge](https://img.shields.io/badge/CV-228B22?style=for-the-badge&logo=readthedocs&logoColor=white)](https://raw.githubusercontent.com/aispai9995/aispai9995/refs/heads/main/Aiswarya%20Pai_CV.pdf)
+[![CV Badge](https://img.shields.io/badge/CV-228B22?style=for-the-badge&logo=readthedocs&logoColor=white)](https://raw.githubusercontent.com/aispai9995/aispai9995/refs/heads/main/Aiswarya%20R%20Pai_CV.pdf)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aiswaryarpai.wixsite.com/portfolio)
 
 
