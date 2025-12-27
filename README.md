@@ -2,7 +2,7 @@
 <p align="center"> 
 Master’s in Management - Business Analytics and Information Systems @ The University of Akron 
 <br>
-<img align="center" width="25" height="25" alt="da" src="https://github.com/user-attachments/assets/2beb4481-43c1-428c-b9db-abeefc2a7e93" /> Data Analyst | BI, ML & Analytics | Python, SQL, Tableau, Excel |  Cloud & AI | AWS & Azure Certified <img align="center" width="25" height="25" alt="ca" src="https://github.com/user-attachments/assets/6dd4b3a7-a65d-4f30-a3c8-6b0016a4cc31" />   
+<img align="center" width="25" height="25" alt="ca" src="https://github.com/user-attachments/assets/6dd4b3a7-a65d-4f30-a3c8-6b0016a4cc31"/> Cloud & AI | AWS & Azure Certified | DevOps, IaC, Terraform | Data Analyst | BI, ML & Analytics | Python, SQL, Tableau, Excel <img align="center" width="25" height="25" alt="da" src="https://github.com/user-attachments/assets/2beb4481-43c1-428c-b9db-abeefc2a7e93" />
 <br>
 📍 Cleveland, OH | 📧 aiswaryarpai@gmail.com
 <br>
@@ -15,7 +15,7 @@ Master’s in Management - Business Analytics and Information Systems @ The Univ
 
 ## ⚡️ A Little About Me
 
-I am a data enthusiast with 6 years of experience in data analysis, business systems design, cloud solutions, and business intelligence. I am passionate about uncovering insights by asking the right questions of data and turning them into clear, actionable stories for stakeholders. I also enjoy designing scalable, resilient and automated solutions on cloud. I am currently pursuing my MS in Business Analytics & IS, exploring how data + cloud can power smarter decisions. <br>
+I’m a Cloud Architect and Analytics professional with 6+ years of experience designing secure, scalable AWS and Azure platforms across regulated and enterprise environments. I specialize in Infrastructure as Code, DevOps automation, observability, and data-driven decision systems. I enjoy designing and building scalable, resilient and automated solutions on cloud, that are not just reliable, but intelligent. I am passionate about uncovering insights by asking the right questions of data and turning them into clear, actionable stories for stakeholders. I am exploring how data + cloud can power smarter decisions. <br>
 
 ## 📬 Connect With Me
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aispai9995)
