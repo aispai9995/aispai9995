@@ -15,7 +15,7 @@ Master’s in Management - Business Analytics and Information Systems @ The Univ
 
 ## ⚡️ A Little About Me
 
-I’m a Cloud Architect and Analytics professional with 6+ years of experience designing secure, scalable AWS and Azure platforms across regulated and enterprise environments. I specialize in Infrastructure as Code, DevOps automation, observability, and data-driven decision systems. I enjoy designing and building scalable, resilient and automated solutions on cloud, that are not just reliable, but intelligent. I am passionate about uncovering insights by asking the right questions of data and turning them into clear, actionable stories for stakeholders. I am exploring how data + cloud can power smarter decisions. <br>
+I’m a Cloud Architect and Analytics professional with 6+ years of experience designing secure, scalable AWS and Azure platforms across regulated and enterprise environments. I specialize in Infrastructure as Code, DevOps automation, observability, and data-driven decision systems. I enjoy designing and building solutions on cloud that are not just reliable, but intelligent. I am exploring how data + cloud can power smarter decisions. I am passionate about uncovering insights by asking the right questions of data and turning them into clear, actionable stories for stakeholders. <br>
 
 ## 📬 Connect With Me
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aispai9995)
